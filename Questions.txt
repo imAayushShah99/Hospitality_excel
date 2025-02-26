@@ -1,39 +1,40 @@
 Tasks
 
 1. Data Exploration:
- Open the Excel sheet and explore the dataset’s structure (columns, data types). Fix Incorrect Data Types if any.
- Check for missing values and handle them appropriately.
+   - Open the Excel sheet and explore the dataset’s structure (columns, data types). Fix incorrect data types if any.
+   - Check for missing values and handle them appropriately.
+
 2. Descriptive Statistics:
- Calculate and summarize the basic descriptive statistics for the ‘Avg Room Rate’ column.
- Identify the maximum, minimum, mean, and median room rates.
+   - Calculate and summarize the basic descriptive statistics for the 'Avg Room Rate' column.
+   - Identify the maximum, minimum, mean, and median room rates.
+
 3. Room Type Analysis:
- Analyze the distribution of room types (‘Room Type’ column).
- Determine the most and least popular room types based on the number of
-reservations.
+   - Analyze the distribution of room types ('Room Type' column).
+   - Determine the most and least popular room types based on the number of reservations.
+
 4. Booking Channel Insights:
- Investigate the distribution of booking channels (‘Booking Channel’ column).
- Identify the most effective booking channel based on the number of completed
-reservations.
+   - Investigate the distribution of booking channels ('Booking Channel' column).
+   - Identify the most effective booking channel based on the number of completed reservations.
+
 5. Reservation Status Analysis:
- Explore the distribution of reservation statuses (‘Reservation Status’ column).
- Calculate the percentage of completed, no-show, and other reservaƟon statuses.
+   - Explore the distribution of reservation statuses ('Reservation Status' column).
+   - Calculate the percentage of completed, no-show, and other reservation statuses.
+
 6. Rate Type Comparison:
- Compare the average room rates for weekday and weekend stays (‘Rate Type’
-column).
- Determine if there is a significant difference in rates between weekdays and
-weekends.
+   - Compare the average room rates for weekday and weekend stays ('Rate Type' column).
+   - Determine if there is a significant difference in rates between weekdays and weekends.
+
 7. Property Performance:
- Analyze the performance of different properties (‘Property’ column).
- Identify the property with the highest average room rate and the one with the most
-reservations.
+   - Analyze the performance of different properties ('Property' column).
+   - Identify the property with the highest average room rate and the one with the most reservations.
+
 8. Advanced Booking Analysis:
- Investigate the impact of advanced booking (‘Advanced Booking’ column) on
-reservation completion.
- Compare the completion rates for advanced bookings and regular bookings.
+   - Investigate the impact of advanced booking ('Advanced Booking' column) on reservation completion.
+   - Compare the completion rates for advanced bookings and regular bookings.
+
 9. Special Requests Impact:
- Analyze the impact of special requests (‘Special Requests Flag’ column) on
-reservation completion.
- Compare completion rates for reservations with and without special requests.
+   - Analyze the impact of special requests ('Special Requests Flag' column) on reservation completion.
+   - Compare completion rates for reservations with and without special requests.
+
 10. Conclusion:
- Summarize your findings and provide insights based on the analysis.
- Propose any additional analyses that could provide further insights into the dataset
+   - Summarize your findings and provide insights based on the analysis.
