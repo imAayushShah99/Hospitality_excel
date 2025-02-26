@@ -6,6 +6,7 @@ This project focuses on analyzing hospitality data to gain insights into room ra
 ## 📂 Files Included
 - 📊 **Hospitality.xlsx** – Contains the dataset and calculated answers in the 'Answers' tab.
 - 📄 **questions.txt** – List of analytical tasks performed on the dataset.
+- **Online Dashboard:** [View Here]([https://1drv.ms/x/c/de4924f8ac007d26/EcsOrUSx61NHsvD0jrd37v0BEEnTMx40X2YYl32KWuxeMA?e=vnnETb](https://1drv.ms/x/c/de4924f8ac007d26/EfOMHz9lwxxDsQUKNb5Wz6AB6CqUbgStw9PymYJyW1h49g?e=90UsF8))
 
 ## 🔍 Analysis Performed
 **Descriptive Statistics** – Summarized average room rates (max, min, mean, median).  
