@@ -17,10 +17,3 @@ This project focuses on analyzing hospitality data to gain insights into room ra
 **Advanced Booking Analysis** – Studied the impact of early bookings.  
 **Special Requests Impact** – Assessed how special requests affect reservation completion.  
 **Conclusion** – Summarized insights from the findings.
-
-## 📊 Insights & Findings
-- The **highest room rate** is significantly above the average, showing pricing variation.  
-- **Certain room types** are in higher demand, impacting pricing strategies.  
-- **Direct bookings** have higher completion rates compared to third-party platforms.  
-- **Advanced bookings** tend to have better completion rates than last-minute reservations.  
-- **Special requests** have a minor but notable impact on reservation completion.
